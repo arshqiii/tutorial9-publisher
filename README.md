@@ -14,3 +14,6 @@ Url yang dipakai program subscriber dan publisher sama karena keduanya terhubung
 
 ### Sending and Processing Event
 ![alt text](image_2.png)
+
+### Hasil Chart setelah beberapa cargo run
+![alt text](image_3.png)
