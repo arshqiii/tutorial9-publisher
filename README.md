@@ -11,3 +11,6 @@ Url yang dipakai program subscriber dan publisher sama karena keduanya terhubung
 
 ### Running RabbitMQ as Message Broker
 ![alt text](image_1.png)
+
+### Sending and Processing Event
+![alt text](image_2.png)
