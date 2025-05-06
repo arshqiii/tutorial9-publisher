@@ -14,6 +14,8 @@ Url yang dipakai program subscriber dan publisher sama karena keduanya terhubung
 
 ### Sending and Processing Event
 ![alt text](image_2.png)
+Setelah menjalankan beberapa cargo run pada console publisher, console subscriber langsung memunculkan 5 data message bertahap-tahap, sesuai dengan program.
 
 ### Hasil Chart setelah beberapa cargo run
 ![alt text](image_3.png)
+Muncul spike pada chart kedua karena pengiriman request cargo run berkali-kali pada publisher yang menyebabkan spiking pada message rates yang diterima subscriber
